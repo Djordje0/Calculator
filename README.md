@@ -1,2 +1,2 @@
 # Calculator
-Text-based calculator
+Text-based calculator written in QB64/QBasic
